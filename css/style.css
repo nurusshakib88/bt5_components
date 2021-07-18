@@ -1,0 +1,21 @@
+.darkcyan {
+	font-size: 50px;
+	color: white;
+	background-color: darkcyan;
+	padding-bottom: 6px;
+}
+
+.cyan {
+	color: white;
+	padding: 0.2em;
+	background-color: #008b8ba3;
+	border-radius: 5px;
+}
+
+.c_margin {
+	margin-left: 40px;
+}
+
+.c_width {
+	max-width: 540px;
+}
